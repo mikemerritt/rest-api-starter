@@ -1,0 +1,9 @@
+# Mac
+.DS_Store
+
+# Logs
+yarn-error.log
+
+# Node modules and build
+node_modules/
+build/
