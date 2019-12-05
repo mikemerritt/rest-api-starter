@@ -1,0 +1,8 @@
+{
+  "name": "rest-api-starter",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:mikemerritt/rest-api-starter.git",
+  "author": "Mike Merritt <mike@tundrasoftworks.com>",
+  "license": "MIT"
+}
